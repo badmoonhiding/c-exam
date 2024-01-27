@@ -1,3 +1,3 @@
 # c_exam
 
-one task a day keeps the prep away
+one task a day keeps the failure away
