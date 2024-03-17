@@ -6,12 +6,15 @@
 /*   By: aananiev <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/17 20:22:11 by aananiev          #+#    #+#             */
-/*   Updated: 2024/03/17 20:47:58 by aananiev         ###   ########.fr       */
+/*   Updated: 2024/03/17 21:02:32 by aananiev         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
-int     main(void){
+
+int     main(void)
+
+{
         char     i;
         i = '9';
         while (i >= '0')
